@@ -30,8 +30,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/Steve-Tech/YAFI/archive/refs/tags/0.6.tar.gz",
-                    "sha256": "d2410f7cf77007dd73e2282c71888b362776570b0f57e31d7a863e5f8c606745"
+                    "url": "https://github.com/Steve-Tech/YAFI/archive/refs/tags/0.7.tar.gz",
+                    "sha256": "e59a833cab124bc60e4524b68051778223e22cd88d491ddc026189daf1cf8f00"
                 }
             ]
         }
