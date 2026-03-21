@@ -1,7 +1,7 @@
 {
     "id" : "au.stevetech.yafi",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "49",
+    "runtime-version" : "50",
     "sdk" : "org.gnome.Sdk",
     "command" : "yafi",
     "finish-args" : [
@@ -29,9 +29,13 @@
             "buildsystem" : "meson",
             "sources": [
                 {
-                    "type": "archive",
-                    "url": "https://github.com/Steve-Tech/YAFI/archive/refs/tags/0.7.tar.gz",
-                    "sha256": "e59a833cab124bc60e4524b68051778223e22cd88d491ddc026189daf1cf8f00"
+                    "type": "git",
+                    "url": "https://github.com/Steve-Tech/YAFI",
+                    "tag": "1.0",
+                    "commit": "43de4d979db6cc6bcf95ce9decb78c2e9d4b4275",
+                    "x-checker-data": {
+                        "type": "git"
+                    }
                 }
             ]
         }
