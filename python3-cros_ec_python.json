@@ -7,8 +7,13 @@
     "sources": [
         {
             "type": "file",
-            "url": "https://files.pythonhosted.org/packages/6c/7a/10d978a02bbe37530490cfd14e0994c433dc29c81b3afcdbde453d512528/cros_ec_python-0.3.0-py3-none-any.whl",
-            "sha256": "aeb14ebdbd60ec6d6a4b11df1482a295466da4a908a468d168efd4cc141e7e3d"
+            "url": "https://files.pythonhosted.org/packages/ee/9e/4d10360c6d69f6623c44fba91467a099eede456e6f3ac5e66bc362260416/cros_ec_python-0.4.0.tar.gz",
+            "sha256": "a6836903da1e8c0b2c74a538da845058b6db8264ca8213f052c7f2bde3007453",
+            "x-checker-data": {
+                "type": "pypi",
+                "name": "cros_ec_python",
+                "packagetype": "sdist"
+            }
         }
     ]
 }
